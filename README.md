@@ -1,2 +1,2 @@
-# TMMorrow.github.io
-Personal website/portfolio.
+# ty.business
+Personal website/portfolio for Ty Morrow.
