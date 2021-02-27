@@ -4,9 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Ty Morrow is a Texas-based programmer who has worked on numerous small projects and is planning to gain a Bachelor's Degree in Computer Science or Programming.
 
-You can find the source code for Minima at GitHub:
+You can find his GitHub here:
+
 [TMMorrow](https://github.com/TMMorrow)
 
 [emulate0](https://github.com/emulate0)

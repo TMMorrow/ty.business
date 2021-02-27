@@ -4,3 +4,4 @@
 
 layout: home
 ---
+<h3>Programmer and designer of projects such as [Obscura](https://github.com/TMMorrow/obscura) and [The Gallery](https://github.com/TMMorrow/obscura).
