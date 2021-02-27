@@ -6,7 +6,7 @@ title: Ty Morrow
 # Your name to show in the footer
 author: Ty Morrow
 
-#theme: minima
+theme: minima
 
 # --- List of links in the navigation bar --- #
 
@@ -63,7 +63,8 @@ social-network-links:
 
 
 # --- General options --- #
-
+sass:
+  sass_dir: ./_scss
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
